@@ -9,4 +9,3 @@ console.log("Happy birthday from the generator.");
 }
 
 makeCard();
-makeCard();
